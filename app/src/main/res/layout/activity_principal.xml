@@ -20,7 +20,7 @@
 
         <ImageView
             android:id="@+id/ivFoto"
-            android:background="@color/colorAccent"
+            android:background="@color/colorPrimary"
             android:layout_width="56dp"
             android:layout_height="56dp"
             android:layout_margin="8dp"/>
